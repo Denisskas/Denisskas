@@ -1,5 +1,7 @@
 <h3 align="center"> Hi, I'm DeniskasPro  <img src="https://github.com/DeniskasPro/DeniskasPro/blob/main/icons/wave.gif" width="30" height="30"></h3>
 
+<h3 align="center">Full-Stack Developer</h3>
+
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">  📖 Languages & Tools 🛠</h2></summary>
