@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Languages & Tools 📂</h2></summary>
+  </ul>
+</div>  
 <!--
 **DeniskasPro/DeniskasPro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
