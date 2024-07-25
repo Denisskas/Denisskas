@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![SkillIcons](https://skillicons.dev/icons?i=ts,js,py,html,css,sass,tailwind,jquery,php,mysql,vscode,vue,vite,figma,ps,ai,blender,arduino&theme=light&perline=9)](https://skillicons.dev)
+[![SkillIcons](https://skillicons.dev/icons?i=vscode,ts,js,py,html,css,sass,tailwind,jquery,php,mysql,vue,vite,figma,blender,ps,ai,arduino&theme=light&perline=9)](https://skillicons.dev)
 
 </div>
 
