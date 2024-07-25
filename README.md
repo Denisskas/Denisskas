@@ -1,5 +1,4 @@
 <h1 align="center"> Hi, I'm DeniskasPro  <img src="https://github.com/DeniskasPro/DeniskasPro/blob/main/icons/wave.gif" width="30" height="30"></h1>
-
 <h3 align="center">Full-Stack Developer</h3>
 
 <div id="user-content-toc">
@@ -14,8 +13,4 @@
 
 </div>
 
-<div align="center">
-  
-<img src="https://github.com/DeniskasPro/DeniskasPro/blob/main/icons/bg.gif">
-
-</div>
+<div align="center"><img src="https://github.com/DeniskasPro/DeniskasPro/blob/main/icons/bg.gif"></div>
