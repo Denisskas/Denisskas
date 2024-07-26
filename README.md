@@ -13,4 +13,4 @@
 
 </div>
 
-<div align="center"><img src="https://github.com/DeniskasPro/DeniskasPro/blob/main/icons/bg.gif"></div>
+<div align="center"><img src="https://github.com/DeniskasPro/DeniskasPro/blob/main/icons/bg_cornerrounder.gif"></div>
