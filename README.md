@@ -8,8 +8,8 @@
 </div> 
 
 <div align="center">
-
-[![SkillIcons](https://skillicons.dev/icons?i=vscode,ts,js,html,css,sass,tailwind,jquery,py,php,mysql,vue,vite,figma,blender,ps,ai,arduino&theme=light&perline=9)](https://skillicons.dev)
+  
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,ts,js,html,css,sass,tailwind,jquery,py,php,mysql,vue,vite,figma,blender,ps,ai,arduino&theme=light&perline=9)
 
 </div>
 
