@@ -9,4 +9,4 @@
 
 </div>
 
-<div align="center"> <img alt="bg" width="750px" height="422px" src="https://github.com/DeniskasPro/DeniskasPro/blob/main/icons/bg_cornerrounder2.gif"> </div>
+<div align="center"> <img alt="bg" src="https://github.com/DeniskasPro/DeniskasPro/blob/main/icons/bg_cornerrounder2.gif"> </div>
