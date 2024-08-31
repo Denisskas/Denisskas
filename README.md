@@ -8,4 +8,4 @@
 
 </div>
 
-<div align="center"> <img alt="bg" src="https://github.com/DeniskasPro/DeniskasPro/blob/main/icons/bg_cornerrounder2.gif"> </div>
+<div align="center"> <img alt="bg" src="https://github.com/DeniskasPro/DeniskasPro/blob/main/icons/bg.gif"> </div>
