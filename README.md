@@ -4,7 +4,7 @@
   
 <div align="center">
   
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,docker,ts,js,html,css,sass,tailwind,daisyui,jquery,py,php,mysql,sqlite,vue,vite,figma,gimp,blender,ps,ai,arduino&theme=light&perline=11)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=windows,zen,vscode,docker,ts,js,html,css,sass,tailwind,daisyui,jquery,py,php,mysql,sqlite,vue,vite,figma,gimp,blender,ps,ai,arduino&theme=light&perline=12)
 
 </div>
 
